@@ -1,1 +1,2 @@
-alert("hello git!")
+var hello = "Hello GIT!"
+alert(hello)
